@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PompiliaB
+- 👋 Hi, I’m Pompilia!
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science/ Analytics projects
